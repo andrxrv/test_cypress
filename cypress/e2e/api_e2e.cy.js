@@ -1,3 +1,5 @@
+// Repository link: https://github.com/andrxrv/test_cypress
+
 describe('template spec', () => {
   const rand_word = Cypress._.random(99999)
   

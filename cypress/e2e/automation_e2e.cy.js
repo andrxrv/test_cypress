@@ -1,3 +1,5 @@
+// Repository link: https://github.com/andrxrv/test_cypress
+
 describe('template spec', () => {
 
   it('Add to car 2 items and purchase them', () => {
